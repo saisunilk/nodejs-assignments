@@ -15,5 +15,8 @@
   "type": "module",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
